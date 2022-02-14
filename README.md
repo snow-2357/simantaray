@@ -3,7 +3,7 @@
 </p><ul>  <li>👋 Hi, I’m Simanta</li>  <li>❤️ I love Creating web apps with ReactJS .</li>  <li>🌱 I’m currently learning MERN Stack .</li>  <li>💼 I'm a Full Stack developer at ClassPlus.</li></ul>
 </br>
 #### A little more about me
-```js
+
 const simanta = {
 	pronouns: "He" | "Him",
 	code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -15,7 +15,6 @@ const simanta = {
         database: ["MySQL", "MongoDB"],
 		}
 }
-```
 </br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simantaray&layout=compact&theme=onedark" alt="simantaray" />   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simantaray&show_icons=true&include_all_commits=true&theme=onedark" alt="simantaray" /></p> 
 #### Current Project
