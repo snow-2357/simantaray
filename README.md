@@ -18,7 +18,8 @@ const simanta = {
 }
 ```
 </br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simantaray&layout=compact&theme=onedark" alt="simantaray" />   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simantaray&show_icons=true&include_all_commits=true&theme=onedark" alt="simantaray" /></p> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simantaray&layout=compact&theme=onedark" alt="simantaray" />   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=simantaray&show_icons=true&include_all_commits=true&theme=onedark" alt="simantaray" /></p> 
 #### Current Project
 <p href="https://github.com/simantaray/Ecommerce">  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=simantaray&repo=Ecommerce&theme=onedark" /></p>    
 <p align="left">  <a href="https://dev.to/snow123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="snow123" height="30" width="40" /></a>  <a href="https://twitter.com/rayray61348223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayray61348223" height="30" width="40" /></a>  <a href="https://linkedin.com/in/simanta-ray-a61b61231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simanta-ray-a61b61231/" height="30" width="40" /></a>  </p>  
