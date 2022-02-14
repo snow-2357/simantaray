@@ -11,7 +11,7 @@ const simanta = {
     tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
     askMeAbout  : ["web dev", "frontend dev", "gaming"],
     technologies: {
-	    frontend: ["React", "CSS", "JS", "Bootstrap"],
+	frontend: ["React", "CSS", "JS", "Bootstrap"],
         backend : ["Node","php"],
         database: ["MySQL", "MongoDB"],
 		}
