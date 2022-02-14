@@ -14,8 +14,9 @@ const simanta = {
         backend : ["Node","php"],
         database: ["MySQL", "MongoDB"],
 		}
-}```
-
+}
+```
+</br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simantaray&layout=compact&theme=onedark" alt="simantaray" />   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simantaray&show_icons=true&include_all_commits=true&theme=onedark" alt="simantaray" /></p> 
 #### Current Project
 <p href="https://github.com/simantaray/Ecommerce">  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=simantaray&repo=Ecommerce&theme=onedark" /></p>    
