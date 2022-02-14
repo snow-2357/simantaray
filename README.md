@@ -4,6 +4,7 @@
 </br>
 #### A little more about me
 
+```js
 const simanta = {
 	pronouns: "He" | "Him",
 	code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -15,6 +16,7 @@ const simanta = {
         database: ["MySQL", "MongoDB"],
 		}
 }
+```
 </br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simantaray&layout=compact&theme=onedark" alt="simantaray" />   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simantaray&show_icons=true&include_all_commits=true&theme=onedark" alt="simantaray" /></p> 
 #### Current Project
