@@ -5,7 +5,7 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-stack+Developer"/></a>
 </p><ul>  <li>👋 Hi, I’m Simanta</li>  <li>❤️ I love Creating web apps with ReactJS .</li>  <li>🌱 I’m currently learning MERN Stack .</li>  <li>💼 I'm a Full Stack developer at ClassPlus.</li></ul>
 #### A little more about me
-```javascript```
+```js
 const simanta = {
 	pronouns: "He" | "Him",
 	code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
@@ -16,7 +16,7 @@ const simanta = {
         backend : ["Node","php"],
         database: ["MySQL", "MongoDB"],
 		}
-}
+}```
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simantaray&layout=compact&theme=onedark" alt="simantaray" />   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=simantaray&show_icons=true&include_all_commits=true&theme=onedark" alt="simantaray" /></p> 
 #### Current Project
