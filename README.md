@@ -1,20 +1,18 @@
 <h2> Hi, I'm Simanta Ray! </h2>
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-stack+Developer"/></a>
 </p><ul><li>❤️ I love Creating web apps with ReactJS .</li>  <li>🌱 I’m currently learning MERN Stack .</li>  <li>💼 I'm a Full Stack developer at ClassPlus.</li></ul>
-</br>
-
 <h3>About me</h3>
 
 ```js
 const simanta = {
 	pronouns : "He" | "Him",
 	languages : [Javascript, HTML, CSS, PHP, MySql],
-   	askMeAbout : ["Web Dev", "Designing", "Gaming"],
     	technologies : {
 		frontend : ["React", "CSS", "JS", "Bootstrap"],
         	backend : ["Node","php"],
         	database : ["MySQL", "MongoDB"],
 		}
+	askMeAbout : ["Web Dev", "Designing", "Gaming"],
 }
 ```
 </br>
