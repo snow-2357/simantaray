@@ -18,6 +18,7 @@ const simanta = {
 }
 ```
 </br>
+#### Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simantaray&layout=compact&theme=onedark" alt="simantaray" />   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=simantaray&show_icons=true&include_all_commits=true&theme=onedark" alt="simantaray" />
 </br>
