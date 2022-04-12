@@ -3,6 +3,8 @@
 </p><ul><li>❤️ I love Creating web apps with ReactJS .</li>  <li>🌱 I’m currently learning MERN Stack .</li>  <li>💼 I'm a Full Stack developer at ClassPlus.</li></ul>
 <h3>About me</h3>
 
+![Logo](/logo2.png)
+
 ```js
 const simanta = {
 	pronouns : "He" | "Him",
