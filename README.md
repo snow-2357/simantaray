@@ -10,7 +10,7 @@ const simanta = {
 	pronouns : "He" | "Him",
 	languages : [Javascript, HTML, CSS, PHP, MySql],
     	technologies : {
-		frontend : ["React", "CSS", "JS", "Bootstrap"],
+		frontend : ["React", "CSS", "JS", "Bootstrap","Nextjs"],
         	backend : ["Node","php"],
         	database : ["MySQL", "MongoDB"],
 		}
