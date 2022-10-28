@@ -18,6 +18,8 @@ const simanta = {
 }
 ```
 </br>
+[Twin](https://github.com/simantaRay1)
+</br>
 
 <h3> Stats</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=simantaray&layout=compact&theme=onedark" alt="simantaray" />   
