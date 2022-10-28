@@ -19,7 +19,6 @@ const simanta = {
 ```
 
 twin [Link](https://github.com/simantaRay1 ).
-```
 
 
 <h3> Stats</h3>
