@@ -18,7 +18,7 @@ const simanta = {
 }
 ```
 </br>
-[Twin](https://github.com/simantaRay1)
+![Twin](https://github.com/simantaRay1)
 </br>
 
 <h3> Stats</h3>
