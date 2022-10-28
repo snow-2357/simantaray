@@ -17,8 +17,9 @@ const simanta = {
 	askMeAbout : ["Web Dev", "Designing", "Gaming" , "Javascript"],
 }
 ```
+
+twin [Link](https://github.com/simantaRay1 ).
 ```
-Twin [Link](https://github.com/simantaRay1).
 ```
 
 <h3> Stats</h3>
